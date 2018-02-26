@@ -5,3 +5,9 @@ This project will allow a person to compress any multidimensional data into 3 di
 One tap walk/stopWalk has been implemented, so you will move in the direction in which you are looking when you tap the screen and if you tap again you will stop moving.
 
 SCREEN SHOTS AND VIDEO DEMO ATTACHED
+![](/screenShot1.png)
+![](/screenShot2.png)
+![](/screenShot3.png)
+![](/screenShot4.png)
+![](/screenShot5.png)
+![](/screenShot6.png)
